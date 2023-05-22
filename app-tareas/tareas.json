@@ -1,0 +1,14 @@
+[
+    {
+        "titulo" : "repasar js",
+        "estado" : "terminada"
+    },
+    {
+        "titulo" : "ir a clase",
+        "estado" : "en progreso"
+    },
+    {
+        "titulo" : "merendar",
+        "estado" : "pendiente"
+    }
+]
